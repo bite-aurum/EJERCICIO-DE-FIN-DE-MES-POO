@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{468BE1E4-24B9-FF46-26C2-354EB1C26060}</ProjectGuid>
+    <ProjectGuid>{E25C6E74-868D-4EA5-9542-272BBEE88378}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>EXAMEN_POO</RootNamespace>
     <AssemblyName>EXAMEN-POO</AssemblyName>
